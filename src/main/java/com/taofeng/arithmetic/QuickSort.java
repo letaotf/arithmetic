@@ -1,7 +1,7 @@
 package com.taofeng.arithmetic;
 
 /**
- * <p>希尔排序</p >
+ * <p>快速排序</p >
  *
  * @author: 乐陶（letao@maihaoche.com）
  * @date: 2019/9/20 上午10:05
